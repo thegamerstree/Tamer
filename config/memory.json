@@ -1,0 +1,10 @@
+{
+  "use_memory": true,
+  "process_name": "GDMO.exe",
+  "base_offset": "0x0072FF80",
+  "auto_reconnect": true,
+  "validation_enabled": true,
+  "read_interval": 0.1,
+  "connection_timeout": 5,
+  "retry_attempts": 3
+}

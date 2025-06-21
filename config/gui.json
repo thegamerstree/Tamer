@@ -1,0 +1,9 @@
+{
+  "theme": "Dark",
+  "window_size": "950x850",
+  "always_on_top": false,
+  "minimize_to_tray": true,
+  "auto_save_interval": 300,
+  "log_max_lines": 1000,
+  "real_time_updates": true
+}

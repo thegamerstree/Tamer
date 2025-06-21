@@ -1,0 +1,13 @@
+{
+  "human_timing": true,
+  "pattern_randomization": true,
+  "break_system": true,
+  "adaptive_delays": true,
+  "stealth_mode": false,
+  "detection_sensitivity": 0.7,
+  "behavioral_variance": 0.3,
+  "session_breaks": true,
+  "micro_breaks": true,
+  "fatigue_simulation": true,
+  "attention_simulation": true
+}

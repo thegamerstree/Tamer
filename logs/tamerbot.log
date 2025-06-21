@@ -1,0 +1,53 @@
+2025-06-20 19:06:17.610 INFO     [INFO] Logger initialized
+2025-06-20 19:06:17.636 INFO     [INFO] Configuration manager loaded
+2025-06-20 19:07:07.094 INFO     [INFO] Logger initialized
+2025-06-20 19:07:07.104 INFO     [INFO] Configuration manager loaded
+2025-06-20 19:09:11.515 INFO     [INFO] Logger initialized
+2025-06-20 19:09:11.524 INFO     [INFO] Configuration manager loaded
+2025-06-20 19:10:24.931 INFO     [INFO] Logger initialized
+2025-06-20 19:10:24.940 INFO     [INFO] Configuration manager loaded
+2025-06-20 19:10:25.320 INFO     [INFO] Bot engine loaded
+2025-06-20 19:10:25.320 INFO     [INFO] Initializing components...
+2025-06-20 19:10:25.446 WARNING  [WARNING] Custom GUI not available, using basic interface
+2025-06-20 19:14:02.607 INFO     [INFO] Logger initialized
+2025-06-20 19:14:02.616 INFO     [INFO] Configuration manager loaded
+2025-06-20 19:14:02.904 INFO     [INFO] Bot engine loaded
+2025-06-20 19:14:02.904 INFO     [INFO] Initializing components...
+2025-06-20 19:14:03.649 INFO     [INFO] Custom GUI loaded successfully
+2025-06-20 19:14:03.650 INFO     [INFO] Bot engine initialized
+2025-06-20 19:14:03.650 INFO     [INFO] Bot engine initialized
+2025-06-20 19:14:03.650 INFO     [INFO] TamerBot v10.0 initialized successfully
+2025-06-20 19:14:03.650 INFO     [INFO] Starting GDMO TamerBot v10.0
+2025-06-20 19:26:14.347 INFO     [INFO] Logger initialized
+2025-06-20 19:26:14.356 INFO     [INFO] Configuration manager loaded
+2025-06-20 19:26:14.647 INFO     [INFO] Bot engine loaded
+2025-06-20 19:26:14.647 INFO     [INFO] Initializing components...
+2025-06-20 19:26:15.397 INFO     [INFO] Custom GUI loaded successfully
+2025-06-20 19:26:15.398 INFO     [INFO] Bot engine initialized
+2025-06-20 19:26:15.398 INFO     [INFO] Bot engine initialized
+2025-06-20 19:26:15.398 INFO     [INFO] TamerBot v10.0 initialized successfully
+2025-06-20 19:26:15.399 INFO     [INFO] Starting GDMO TamerBot v10.0
+2025-06-20 19:28:16.388 INFO     [INFO] Logger initialized
+2025-06-20 19:28:16.397 INFO     [INFO] Configuration manager loaded
+2025-06-20 19:28:16.687 INFO     [INFO] Bot engine loaded
+2025-06-20 19:28:16.796 INFO     [INFO] Bot engine initialized
+2025-06-20 19:28:16.687 INFO     [INFO] Initializing components...
+2025-06-20 19:28:16.796 INFO     [INFO] Bot engine initialized
+2025-06-20 19:28:17.443 INFO     [INFO] Custom GUI loaded successfully
+2025-06-20 19:28:17.443 INFO     [INFO] TamerBot v10.0 initialized successfully
+2025-06-20 19:28:17.443 INFO     [INFO] Starting GDMO TamerBot v10.0
+2025-06-20 19:29:35.210 INFO     [INFO] Initiating graceful shutdown...
+2025-06-20 19:29:35.262 INFO     [INFO] Shutdown complete
+2025-06-20 19:29:35.262 INFO     [INFO] Initiating graceful shutdown...
+2025-06-20 19:31:15.500 INFO     [INFO] Logger initialized
+2025-06-20 19:31:15.511 INFO     [INFO] Configuration manager loaded
+2025-06-20 19:31:15.807 INFO     [INFO] Bot engine loaded
+2025-06-20 19:31:15.918 INFO     [INFO] Bot engine initialized
+2025-06-20 19:31:15.807 INFO     [INFO] Initializing components...
+2025-06-20 19:31:15.918 INFO     [INFO] Bot engine initialized
+2025-06-20 19:31:16.600 INFO     [INFO] Custom GUI loaded successfully
+2025-06-20 19:31:16.600 INFO     [INFO] TamerBot v10.0 initialized successfully
+2025-06-20 19:31:16.600 INFO     [INFO] Starting GDMO TamerBot v10.0
+2025-06-20 19:31:30.635 INFO     [INFO] Initiating graceful shutdown...
+2025-06-20 19:31:30.658 INFO     [INFO] Shutdown complete
+2025-06-20 19:31:30.658 INFO     [INFO] Initiating graceful shutdown...

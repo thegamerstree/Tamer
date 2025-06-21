@@ -1,0 +1,8 @@
+{
+  "encrypt_settings": false,
+  "secure_memory": true,
+  "anti_debugging": false,
+  "process_hiding": false,
+  "network_isolation": true,
+  "log_encryption": false
+}

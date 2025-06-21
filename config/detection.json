@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "detection_interval": 0.1,
+  "confidence_threshold": 0.6,
+  "max_detection_distance": 500,
+  "roi_optimization": true,
+  "multi_threading": true,
+  "color_profiles": {}
+}

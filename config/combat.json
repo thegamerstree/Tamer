@@ -1,0 +1,16 @@
+{
+  "attack_key": "1",
+  "pickup_key": "4",
+  "attack_cooldown": 2.5,
+  "auto_pickup": true,
+  "target_priority": "boss_nameplate,red_hp_bar,enemy_nameplate,yellow_nameplate",
+  "avoid_digimon": "",
+  "emergency_retreat": true,
+  "retreat_hp_threshold": 15,
+  "combo_enabled": true,
+  "combo_chance": 0.2,
+  "aggressive_mode": false,
+  "defensive_mode": false,
+  "auto_target": true,
+  "target_switching": true
+}

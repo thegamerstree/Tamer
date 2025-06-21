@@ -1,0 +1,12 @@
+{
+  "auto_move": true,
+  "movement_interval": 8.0,
+  "exploration_pattern": "Random",
+  "smart_positioning": true,
+  "avoid_obstacles": true,
+  "return_to_spawn": false,
+  "patrol_radius": 100,
+  "movement_speed": "Normal",
+  "stuck_detection": true,
+  "pathfinding_enabled": true
+}

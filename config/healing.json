@@ -1,0 +1,12 @@
+{
+  "smart_healing": true,
+  "emergency_healing": true,
+  "combat_heal_delay": 2.5,
+  "normal_heal_delay": 1.5,
+  "panic_threshold": 15,
+  "overheal_protection": 5,
+  "prediction_enabled": true,
+  "adaptive_thresholds": true,
+  "health_monitoring": true,
+  "auto_potion_buy": false
+}
