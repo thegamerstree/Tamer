@@ -37,7 +37,7 @@ class HealingConfig:
     emergency_threshold: int = 25
 
 
-class EnhancedHealing:
+class HealingSystem:
     """Enhanced healing system with improved logic and safety"""
     
     def __init__(self, bot_instance):

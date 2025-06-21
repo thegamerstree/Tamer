@@ -63,3 +63,36 @@
 2025-06-21 06:58:40.163 INFO     [INFO] Custom GUI loaded successfully
 2025-06-21 06:58:40.163 INFO     [INFO] TamerBot v10.0 initialized successfully
 2025-06-21 06:58:40.163 INFO     [INFO] Starting GDMO TamerBot v10.0
+2025-06-21 07:32:34.442 INFO     [INFO] Logger initialized
+2025-06-21 07:32:34.507 INFO     [INFO] Configuration manager loaded
+2025-06-21 07:32:35.566 INFO     [INFO] Bot engine loaded
+2025-06-21 07:32:35.566 INFO     [INFO] Initializing components...
+2025-06-21 07:32:35.680 INFO     [INFO] Bot engine initialized
+2025-06-21 07:32:36.354 INFO     [INFO] Custom GUI loaded successfully
+2025-06-21 07:32:36.354 INFO     [INFO] TamerBot v10.0 initialized successfully
+2025-06-21 07:32:36.354 INFO     [INFO] Starting GDMO TamerBot v10.0
+2025-06-21 07:33:56.239 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:33:57.239 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:33:58.240 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:33:59.241 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:00.241 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:01.241 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:02.242 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:03.242 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:04.242 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:05.243 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:06.244 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:10.321 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:11.322 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:12.322 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:13.323 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:14.323 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 07:34:15.323 ERROR    [ERROR] Main loop error: 'ConfigManager' object has no attribute 'use_memory'
+2025-06-21 09:20:02.396 INFO     [INFO] Logger initialized
+2025-06-21 09:20:02.416 INFO     [INFO] Configuration manager loaded
+2025-06-21 09:20:02.690 INFO     [INFO] Bot engine loaded
+2025-06-21 09:20:02.690 INFO     [INFO] Initializing components...
+2025-06-21 09:20:02.798 INFO     [INFO] Bot engine initialized
+2025-06-21 09:20:03.433 INFO     [INFO] Custom GUI loaded successfully
+2025-06-21 09:20:03.434 INFO     [INFO] TamerBot v10.0 initialized successfully
+2025-06-21 09:20:03.434 INFO     [INFO] Starting GDMO TamerBot v10.0
