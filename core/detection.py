@@ -7,11 +7,18 @@ import threading
 from typing import Dict, List, Optional, Tuple, Any
 from dataclasses import dataclass
 from concurrent.futures import ThreadPoolExecutor, Future
-import win32gui
-import win32process
-import psutil
 from PIL import ImageGrab
 import numpy as np
+
+# Optional win32 imports
+WIN32API_AVAILABLE = False
+try:
+    import win32gui
+    import win32process
+    import psutil # psutil is used for process name, keep it here for context
+    WIN32API_AVAILABLE = True
+except ImportError:
+    print("Warning: win32gui or psutil not available. Some window detection features disabled.")
 
 # Optional imports with fallbacks
 CV_AVAILABLE = False
@@ -117,7 +124,8 @@ class DigimonDetector:
         Returns:
             Tuple of (success, list of (title, rect, process_name))
         """
-        if not self.detection_enabled:
+        if not self.detection_enabled or not WIN32API_AVAILABLE:
+            self.logger.warning("Detection or win32api not available for window setup.")
             return False, []
         
         try:
@@ -203,6 +211,9 @@ class DigimonDetector:
     
     def set_game_window_by_hwnd(self, hwnd) -> Tuple[bool, str]:
         """Set game window by window handle"""
+        if not WIN32API_AVAILABLE:
+            self.logger.warning("win32api not available for setting game window by HWND.")
+            return False, "win32api not available"
         try:
             rect = win32gui.GetWindowRect(hwnd)
             title = win32gui.GetWindowText(hwnd)

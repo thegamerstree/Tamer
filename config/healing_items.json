@@ -1,2 +1,50 @@
 {
-  "Recovery Floppy": 
+  "Recovery Floppy": {
+    "key": "1",
+    "enabled": true,
+    "threshold": 70,
+    "item_type": "hp",
+    "priority": 3,
+    "cooldown": 2.0
+  },
+  "Hi-Recovery Disk": {
+    "key": "2",
+    "enabled": true,
+    "threshold": 50,
+    "item_type": "hp",
+    "priority": 2,
+    "cooldown": 2.0
+  },
+  "Mega Recovery HD": {
+    "key": "3",
+    "enabled": true,
+    "threshold": 25,
+    "item_type": "hp",
+    "priority": 1,
+    "cooldown": 2.0
+  },
+  "Energy Floppy": {
+    "key": "4",
+    "enabled": true,
+    "threshold": 70,
+    "item_type": "ds",
+    "priority": 3,
+    "cooldown": 2.0
+  },
+  "Hi-Energy Disk": {
+    "key": "5",
+    "enabled": true,
+    "threshold": 50,
+    "item_type": "ds",
+    "priority": 2,
+    "cooldown": 2.0
+  },
+  "Mega Energy HD": {
+    "key": "6",
+    "enabled": true,
+    "threshold": 25,
+    "item_type": "ds",
+    "priority": 1,
+    "cooldown": 2.0
+  }
+}

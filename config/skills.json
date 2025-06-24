@@ -1,2 +1,66 @@
 {
-  "F1": 
+  "F1": {
+    "enabled": true,
+    "cooldown": 2.0,
+    "usage_chance": 70.0,
+    "combat_only": true,
+    "emergency_use": false,
+    "combo_starter": true
+  },
+  "F2": {
+    "enabled": true,
+    "cooldown": 4.0,
+    "usage_chance": 70.0,
+    "combat_only": true,
+    "emergency_use": false,
+    "combo_starter": false
+  },
+  "F3": {
+    "enabled": true,
+    "cooldown": 6.0,
+    "usage_chance": 70.0,
+    "combat_only": true,
+    "emergency_use": false,
+    "combo_starter": false
+  },
+  "F4": {
+    "enabled": false,
+    "cooldown": 8.0,
+    "usage_chance": 30.0,
+    "combat_only": true,
+    "emergency_use": false,
+    "combo_starter": false
+  },
+  "F5": {
+    "enabled": false,
+    "cooldown": 10.0,
+    "usage_chance": 30.0,
+    "combat_only": true,
+    "emergency_use": false,
+    "combo_starter": false
+  },
+  "F6": {
+    "enabled": false,
+    "cooldown": 12.0,
+    "usage_chance": 30.0,
+    "combat_only": true,
+    "emergency_use": false,
+    "combo_starter": false
+  },
+  "F7": {
+    "enabled": false,
+    "cooldown": 14.0,
+    "usage_chance": 30.0,
+    "combat_only": true,
+    "emergency_use": false,
+    "combo_starter": false
+  },
+  "F8": {
+    "enabled": false,
+    "cooldown": 16.0,
+    "usage_chance": 30.0,
+    "combat_only": true,
+    "emergency_use": false,
+    "combo_starter": false
+  }
+}
